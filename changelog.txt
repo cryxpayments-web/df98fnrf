@@ -1,4 +1,8 @@
 **changelog:** `01/05/2026` 
 
-## Menu / Languages
-- **Added Chinese Menu Support** - You can now use the menu in **Chinese**.
+## Inventory / Loadout
+- **Fixed Loadout Not Saving** - Equipped skins in lobby now persist correctly (saved to `equipped_items.json`) and restore on next launch.
+- **Improved Auto-Restore Reliability** - Inventory + loadout restore now retries automatically (lobby + in-game) until fully ready, similar to ReevInventory behavior.
+
+## Skins / Gloves
+- **Fixed Glove Rendering Inconsistency** - Gloves now apply more reliably by reapplying across more frames and recovering when gloves aren’t initialized yet (fixes “sometimes renders, sometimes not”).
