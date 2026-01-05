@@ -1,2 +1,1 @@
-Reev is currently reported to be detected by VAC, VAC-LIVE. Please use on an alternative!
-
+If you get VAC banned (delay ban), please report it in the server.
