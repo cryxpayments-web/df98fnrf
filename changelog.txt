@@ -1,18 +1,13 @@
-> **changelog:** `01/06/2026 - 11:27 AM [GMT+01:00]` 
+> **changelog:** `01/06/2026 - 12:20 PM [GMT+01:00]` 
 > 
-> ## LUA / UI Polish
-> - **Cleaner Spacing** - Added extra padding so the Lua panels no longer touch the menu borders.
+> ## Grenade Prediction (Trajectory Line)
+> - **New “Thin” Line Style** - The default grenade prediction line is now a clean, thin, smooth line that’s easier to read.
+> - **Only Shows While Aiming** - The prediction line only appears when you’re actually preparing a throw (aiming), not all the time.
+> - **Instantly Disappears After Throw** - The line stops drawing the moment you throw the grenade (no leftover line after release).
+> - **Cleaner + Faster** - Reduced extra visual clutter and optimized drawing so it uses less performance.
 > 
-> ## CONFIG / Local Configs
-> - **Cleaner Layout** - The Config tab has a more modern, organized layout with better spacing and readability.
-> - **Search + Refresh Bar** - Search and Refresh are now aligned properly at the top for a smoother experience.
-> - **Clearer Selected Config** - The selected config name is shown more clearly, with an “Unsaved” indicator when you changed settings.
-> - **Delete Confirmation Popup** - Deleting a config now uses a proper confirmation popup (safer + cleaner than the old inline warning).
-> - **Export / Import (Clipboard)** - You can now Export a config to your clipboard and Import it back directly from the clipboard (easy sharing).
-> 
-> ## CONFIG / Public Configs
-> - **Improved Toolbar** - Search and Refresh are aligned and more consistent, making the page easier to use.
-> 
-> ## MISC / Custom Models
-> - **Open Models Folder Fix** - “Open Models Folder” is now more reliable across different PCs/installs.
-> - **Better Path Detection** - The cheat now finds the correct CS2 models folder path more consistently, and creates the folder if needed before opening it.
+> ## Grenade Prediction Effect (On-Grenade Indicator)
+> - **Smaller Effect** - The on-grenade indicator is now smaller and less intrusive.
+> - **One-Time Spawn Per Throw** - The effect is created when you throw the grenade and stays with that grenade.
+> - **Correct Expiration** - The effect now disappears right when the throwable itself expires (no late or early expiration).
+> - **Timer Behavior Improved** - The timer only shows while time is remaining (it won’t stay stuck showing `0.0`).
