@@ -1,9 +1,8 @@
-**changelog:** `01/05/2026` 
+**changelog:** `01/06/2026 - 2:36 AM [GMT+01:00]` 
 
-## Inventory / Loadout
-- **Fixed Loadout Not Saving** - Equipped skins in lobby now persist correctly (saved to `equipped_items.json`) and restore on next launch.
-- **Improved Auto-Restore Reliability** - Inventory + loadout restore now retries automatically (lobby + in-game) until fully ready.
+## Overlay / Watermark
+- **New Watermark Icons** - Replaced the small green dots with clean icons for **FPS**, **Ping**, and **Clock**.
+- **Watermark Size Slider** - You can now scale the watermark bigger or smaller from the menu.
 
-## Skins / Gloves
-- **Fixed Glove Rendering Inconsistency** - (fixes “sometimes renders, sometimes not”).
-
+## Overlay / Spectators List
+- **Spectators Size Slider** - You can now scale the spectators list bigger or smaller from the menu.
