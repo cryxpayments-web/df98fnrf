@@ -1,22 +1,10 @@
-> **changelog:** `01/06/2026 - 10:38 AM [GMT+01:00]` 
+> **changelog:** `01/06/2026 - 01:27 PM [GMT+01:00]` 
 > 
-> ## Visuals / Bullet Tracers
-> - **New “Zapper Tracers”** - Added a new electric-style tracer that looks like a zig-zag lightning bolt, making shots easier to see.
-> - **New Tracer Styles** - You can now pick different tracer looks:
->   - Default
->   - Zapper (electric)
->   - Beam (laser)
->   - Pulse (pulsing glow)
->   - Rainbow (color cycling)
->   - Plasma (energy style)
-> - **Separate Settings** - Local, Enemy, and Team tracers can each have their own style and color.
-> - **Simple Extra Sliders (only when needed)**
->   - Zapper/Lightning: **Segments** + **Amplitude** (controls how “zig-zag” it is)
->   - Beam: **Width** (controls how thick it is)
-> - **Performance Friendly** - Limits are in place to keep things smooth and avoid FPS drops.
+> ## Skins / Inventory
+> - **Fixed Wrong “Legacy” Skin Rendering** - Some skins could look incorrect (wrong model/finish). This is now fixed so skins match what you selected.
+> - **More Reliable Skin Adding** - When you add a skin, it now correctly remembers the right skin type so it applies properly in-game.
+> - **Safer Skin Values** - Added extra safety checks for paint kit / seed / wear so invalid values don’t cause weird results.
 > 
-> ## How To Enable
-> - Menu → **World** → **Effects**
-> - Turn on **Local Bullet Tracers** (and/or Enemy/Team)
-> - Pick a **Tracer Style**
-> - Adjust sliders if your selected style has them
+> ## Stability / Crash Prevention
+> - **Safer Knife/HUD Refresh** - Reduced the chance of crashes or glitches when updating knife icons/skins.
+> - **More Stable Material Updates** - Skin material/composite updates are now handled more safely to prevent random issues.
