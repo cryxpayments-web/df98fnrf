@@ -1,8 +1,13 @@
-**changelog:** `01/06/2026 - 2:36 AM [GMT+01:00]` 
+**changelog:** `01/06/2026 - 10:38 AM [GMT+01:00]` 
 
-## Overlay / Watermark
-- **New Watermark Icons** - Replaced the small green dots with clean icons for **FPS**, **Ping**, and **Clock**.
-- **Watermark Size Slider** - You can now scale the watermark bigger or smaller from the menu.
+## LUA / Script Library
+- **New Card Layout** - Scripts are now shown as clean “cards” with the script title and author, instead of the old list style.
+- **Clearer Status** - Each script card shows a small status dot so it’s easier to tell what’s loaded / not loaded at a glance.
+- **Better Search Bar** - Search no longer overlaps the buttons, and works smoothly with the new layout.
+- **New Header Buttons** - Refresh, Open Folder, and Clear Search are now properly placed and readable.
+- **Folder Button Compatibility** - “Open scripts folder” is now more reliable across different PCs (opens correctly for everyone).
 
-## Overlay / Spectators List
-- **Spectators Size Slider** - You can now scale the spectators list bigger or smaller from the menu.
+## LUA / Script Details
+- **Cleaner Details Panel** - Script info is now easier to read with a more organized layout.
+- **Improved Actions** - Load / Reload / Unload buttons are clearer and easier to use.
+- **Copy Path Button** - Added a quick button to copy the script path.
