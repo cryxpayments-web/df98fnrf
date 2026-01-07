@@ -1,8 +1,11 @@
-> **changelog:** `01/07/2026 - 7:01 PM [GMT+01:00]` 
+> **changelog:** `07/01/2026 - 8:09 PM [GMT+01:00]` 
 > 
-> ## Radar / Minimap
-> - **New Circular Design** - The radar is now a clean circle instead of a rectangle, giving it a proper minimap look.
-> - **Matches Menu Theme** - The radar border and player marker now use your menu's accent color for a consistent look.
-> - **Draggable Anywhere** - You can now drag the radar by clicking anywhere on it, not just the header.
-> - **Cleaner Map Display** - The map texture now stays perfectly inside the circle with no overflow.
-> - **Smoother Visuals** - Added subtle inner border and refined styling for a more polished appearance.
+> ## C4 / Bomb ESP
+> - **New C4 World Indicator** - When the bomb is planted, a clean circular indicator appears above it showing the countdown timer.
+> - **Progress Ring** - Visual ring shows how much time is left at a glance. Changes color as time runs out (accent → orange → red).
+> - **Bomb Icon** - Displays a bomb icon inside the indicator for easy recognition.
+> - **Menu Options** - Toggle the C4 ESP, timer display, distance, site info, and defuse info separately in the Visuals menu.
+> 
+> ## Radar
+> - **Circular Radar** - Radar now displays as a clean circle with Reev accent colors.
+> - **Stability Fix** - Fixed a crash that could occur when loading the radar map.
