@@ -1,10 +1,17 @@
-> **changelog:** `01/06/2026 - 01:27 PM [GMT+01:00]` 
+> **changelog:** `01/07/2026 - 4:16 PM [GMT+01:00]` 
 > 
-> ## Skins / Inventory
-> - **Fixed Wrong “Legacy” Skin Rendering** - Some skins could look incorrect (wrong model/finish). This is now fixed so skins match what you selected.
-> - **More Reliable Skin Adding** - When you add a skin, it now correctly remembers the right skin type so it applies properly in-game.
-> - **Safer Skin Values** - Added extra safety checks for paint kit / seed / wear so invalid values don’t cause weird results.
+> ## Keybind List HUD (NEW)
+> - **New Keybind Display** - A clean on-screen panel that shows all your active keybinds while playing.
+> - **Always Visible** - The keybind list stays on screen whenever you have keybinds configured, so you always know what's active.
+> - **On/Off Status** - Each keybind shows "On" or "Off" so you can easily see what's currently active at a glance.
+> - **Mode Display** - Shows whether each keybind is set to "Hold", "Toggle", or "Always" on the right side.
+> - **Matches Your Theme** - The panel automatically uses your menu's accent color, so it matches your watermark and indicators.
+> - **Draggable** - You can move the keybind list anywhere on screen by dragging it when the menu is open.
 > 
-> ## Stability / Crash Prevention
-> - **Safer Knife/HUD Refresh** - Reduced the chance of crashes or glitches when updating knife icons/skins.
-> - **More Stable Material Updates** - Skin material/composite updates are now handled more safely to prevent random issues.
+> ## Keybinds Tracked
+> - **Legitbot** - Aimbot, Silent Aim, Triggerbot
+> - **Visuals** - Third Person
+> - **Movement** - Edge Jump, Edge Bug, Fake Duck
+> 
+> ## How to Enable
+> - Go to **Misc → Overlay** and enable **"Keybinds"** in the Overlay options.
