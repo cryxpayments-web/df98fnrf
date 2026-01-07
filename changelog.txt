@@ -1,17 +1,8 @@
-> **changelog:** `01/07/2026 - 5:28 PM [GMT+01:00]` 
+> **changelog:** `07/01/2026 - 6:28 PM [GMT+01:00]` 
 > 
-> ## Menu Appearance
-> - **Menu Glow Fixed** - The glow effect around the menu now works properly, giving the menu a nice accent-colored glow.
-> - **Flying Logos Improved** - Background flying "R" letters are now much more visible with a soft glow effect, and there are more of them for a fuller look.
-> - **Cleaner Settings** - Removed an empty "Menu Style" section that had no options.
-> 
-> ## Language Support
-> - **LUA Tab Translated** - All text in the Script Library and Script Details panels now supports Russian, Spanish, and Chinese.
-> - **Config Tab Translated** - All text in the Config List and Config Actions panels now supports Russian, Spanish, and Chinese.
-> - **Full Coverage** - Buttons, placeholders, messages, and labels are all properly translated when you switch languages.
-> 
-> ## Translations Added
-> - Script Library, Script Details, search bars, and all script-related messages
-> - Config List, Config Actions, create/save/load/delete buttons
-> - Confirmation dialogs (delete config, unload cheat)
-> - All placeholder text and empty state messages
+> ## Skins / Inventory
+> - **Fixed Gloves Not Showing** - Gloves now properly apply and display in-game after equipping them.
+> - **Fixed Crash on Map Load** - Resolved a crash that could happen when loading into a map with skins enabled.
+> - **Fixed Agent Skins** - Custom agents now apply correctly without causing game instability.
+> - **Improved Skin Stability** - Skins, knives, gloves, and agents now load more reliably with better timing.
+> - **Better Performance** - Optimized how often skin updates run to reduce any potential stuttering.
