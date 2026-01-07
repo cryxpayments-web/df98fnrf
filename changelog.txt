@@ -1,8 +1,8 @@
-> **changelog:** `07/01/2026 - 6:28 PM [GMT+01:00]` 
+> **changelog:** `01/07/2026 - 7:01 PM [GMT+01:00]` 
 > 
-> ## Skins / Inventory
-> - **Fixed Gloves Not Showing** - Gloves now properly apply and display in-game after equipping them.
-> - **Fixed Crash on Map Load** - Resolved a crash that could happen when loading into a map with skins enabled.
-> - **Fixed Agent Skins** - Custom agents now apply correctly without causing game instability.
-> - **Improved Skin Stability** - Skins, knives, gloves, and agents now load more reliably with better timing.
-> - **Better Performance** - Optimized how often skin updates run to reduce any potential stuttering.
+> ## Radar / Minimap
+> - **New Circular Design** - The radar is now a clean circle instead of a rectangle, giving it a proper minimap look.
+> - **Matches Menu Theme** - The radar border and player marker now use your menu's accent color for a consistent look.
+> - **Draggable Anywhere** - You can now drag the radar by clicking anywhere on it, not just the header.
+> - **Cleaner Map Display** - The map texture now stays perfectly inside the circle with no overflow.
+> - **Smoother Visuals** - Added subtle inner border and refined styling for a more polished appearance.
