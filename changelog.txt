@@ -1,17 +1,16 @@
-> **changelog:** `08/01/2026 - 04:47 AM [GMT+01:00]` 
-> 
-> ## Stability Fix
-> - **Crash Fix** - Fixed a random crash that could happen while playing (access violation). The cheese now properly validates game entities before accessing them.
-> 
-> ## Team Damage Indicator (Redesigned)
-> - **New Clean Design** - Completely redesigned with a modern, smooth overlay style that matches Reev's menu colors.
-> - **Alive/Dead Status** - The dot next to each player now shows if they're alive (green) or dead (red).
-> - **Enemy Damage Tracking** - Now shows how much damage each teammate has done to enemies, plus their kills.
-> - **Better Layout** - Each teammate is shown in a clean card with their name, enemy stats, and team damage progress bar.
-> - **Kick Warning** - Pulsing "KICK WARNING" text appears when a teammate is close to getting kicked for team damage.
-> - **Dead Player Dimming** - Dead teammates appear dimmed so you can focus on who's still alive.
-> - **Local Player Highlight** - Your own stats are highlighted with the accent color and shown as "YOU".
-> 
->  ## Stability Fix
-> **Fixed Game Crash** - Resolved a crash that could occur when using Custom Model, Agent, or Gloves features. The game would freeze with a "Resource System" error — this is now fixed.
-> **Custom Model** - Currently disabled to investigate the crashes it was causing.
+changelog: 08/01/2026 - 04:47 AM [GMT+01:00] 
+
+Stability Fix
+Crash Fix - Fixed a random crash that could happen while playing (access violation). The cheese now properly validates game entities before accessing them.
+Fixed Game Crash - Resolved a crash that could occur when using Custom Model, Agent, or Gloves features.
+The game would freeze with a "Resource System" error — this is now fixed.
+Custom Model - Currently disabled to investigate the crashes it was causing.
+
+Team Damage Indicator (Redesigned)
+New Clean Design - Completely redesigned with a modern, smooth overlay style that matches Reev's menu colors.
+Alive/Dead Status - The dot next to each player now shows if they're alive (green) or dead (red).
+Enemy Damage Tracking - Now shows how much damage each teammate has done to enemies, plus their kills.
+Better Layout - Each teammate is shown in a clean card with their name, enemy stats, and team damage progress bar.
+Kick Warning - Pulsing "KICK WARNING" text appears when a teammate is close to getting kicked for team damage.
+Dead Player Dimming - Dead teammates appear dimmed so you can focus on who's still alive.
+Local Player Highlight - Your own stats are highlighted with the accent color and shown as "YOU".
