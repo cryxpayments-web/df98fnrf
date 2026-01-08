@@ -1,13 +1,14 @@
-changelog: 08/01/2026 - 11:42 AM [GMT+01:00] 
+**changelog:** `08/01/2026 - 3:07 PM [GMT+01:00]`
 
-Stability Fixes
-Fixed Map Transition Crash - The game no longer crashes when switching maps or joining servers. The particle effects system is now properly protected during loading.
-Fixed Random Disconnection Crash - Resolved an access violation crash that could occur randomly when leaving a server or during round restarts.
+## Legitbot
+- **Smoothing Type Renamed** - The old smoothing type **"Slow"** has been renamed to **"Human"** (same option, just a clearer name).
+- **Human Smoothing Fixed** - "Human" smoothing now moves more naturally instead of feeling broken/unnatural.
+- **More Natural Aim Movement** - Human smoothing now:
+  - slows down smoothly as your crosshair gets closer to the target
+  - adds tiny, subtle hand-like movement so it doesn't look robotic
+- **Config Compatible** - Your existing configs will still work normally (no reset needed).
 
-Skin Changer
-Improved Model Protection - Added smarter protection that only blocks problematic model changes while allowing normal skin changes to work properly.
-Better Error Handling - Invalid or corrupted skin data is now silently ignored instead of causing crashes.
+## World Visuals
+- **Smoke Color** - New option to customize smoke grenade color with full RGB color picker.
 
-General
-More Stable Online Play - The cheese is now much more stable during competitive matches and doesn't interfere with normal game operations.
-Reduced "Bad Resource" Errors - Fixed an issue where the game would log errors about invalid model names.
+
