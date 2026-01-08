@@ -1,14 +1,7 @@
-**changelog:** `08/01/2026 - 3:07 PM [GMT+01:00]`
-
-## Legitbot
-- **Smoothing Type Renamed** - The old smoothing type **"Slow"** has been renamed to **"Human"** (same option, just a clearer name).
-- **Human Smoothing Fixed** - "Human" smoothing now moves more naturally instead of feeling broken/unnatural.
-- **More Natural Aim Movement** - Human smoothing now:
-  - slows down smoothly as your crosshair gets closer to the target
-  - adds tiny, subtle hand-like movement so it doesn't look robotic
-- **Config Compatible** - Your existing configs will still work normally (no reset needed).
-
-## World Visuals
-- **Smoke Color** - New option to customize smoke grenade color with full RGB color picker.
-
-
+> **changelog:** `01/08/2026 - 05:18 PM [GMT+01:00]` 
+> 
+> ## Visuals / Glow
+> - **New Glow Styles** - You can now choose between three glow styles: Solid, Outline, and Pulse.
+> - **Outline Glow** - Added the popular "outline" effect that shows a clean silhouette around enemy players (like the red edge glow you see in pro clips).
+> - **Pulse Glow** - Added an animated pulsing glow option for a more dynamic look.
+> - **Style Selector** - New dropdown in Visuals → ESP under the Glow option to switch between styles.
