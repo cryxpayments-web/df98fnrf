@@ -1,7 +1,7 @@
-> **changelog:** `01/08/2026 - 05:18 PM [GMT+01:00]` 
-> 
-> ## Visuals / Glow
-> - **New Glow Styles** - You can now choose between three glow styles: Solid, Outline, and Pulse.
-> - **Outline Glow** - Added the popular "outline" effect that shows a clean silhouette around enemy players (like the red edge glow you see in pro clips).
-> - **Pulse Glow** - Added an animated pulsing glow option for a more dynamic look.
-> - **Style Selector** - New dropdown in Visuals → ESP under the Glow option to switch between styles.
+changelog: 01/08/2026 - 05:55 PM [GMT+01:00] 
+
+Triggerbot Enhancements
+Smarter Timing - The triggerbot now has a "Delay Jitter" setting that adds small random variations to make shots feel more natural and human-like.
+Reaction Floor - New minimum reaction time setting so the bot never shoots faster than humanly possible, even with low delay values.
+Target Confirmation - New "Visibility Ticks" option makes the triggerbot wait a moment before shooting, reducing accidental shots when quickly panning past enemies.
+Shot Spacing - New setting to limit how fast the triggerbot can fire, giving you more control over fire rate.
