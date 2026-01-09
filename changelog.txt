@@ -1,10 +1,4 @@
-changelog: 01/09/2026 - 09:07 AM [GMT+01:00] 
+changelog: 01/09/2026 - 09:33 AM [GMT+01:00] 
 
-Discord Game Activity Tracker (NEW!)
-Live Round Updates - Your game activity is now automatically shared to Discord after each round ends.
-Kill & Death Tracking - See who you killed and who killed you, including weapon used and headshot indicators 🎯.
-Map & Mode Display - Shows what map you're playing on and the game mode (Competitive, Casual, Deathmatch, etc.).
-Score Tracking - Displays your team's score vs enemy team score.
-Player Names - Full player names are shown for both your kills and deaths.
-Smart Formatting - Round updates appear as clean Discord embeds with color-coded results (green = positive K/D, red = negative).
-Automatic & Silent - Works in the background without any setup needed - just play and your stats get posted!
+Radio & YouTube
+No More Missing Files - Bass.dll is now built into Reev, so Radio work instantly without needing any extra files.
