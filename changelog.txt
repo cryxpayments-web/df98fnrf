@@ -1,5 +1,11 @@
-changelog: 09/01/2026 - 10:08 AM [GMT+01:00]
+changelog: 01/09/2026 - 04:44 PM [GMT+01:00] 
 
-Custom Model (Misc Tab)
-Fixed Not Working - Custom models now apply correctly again after spawn.
-Improved Stability - Added safety checks to prevent crashes when changing models.
+Discord - Match Detection 🎮
+Same Match Alert - If you're in a CS2 match with another Reev user, both of you will get pinged in Discord automatically.
+Instant Notification - As soon as the match starts, you'll know if a fellow Reev user is in your game.
+Match Details - The alert shows who's in your match, the map you're playing, and the game mode.
+
+How It Works
+Automatic - No setup needed! Just play as normal and the bot handles everything.
+Same Server Detection - The cheat checks if other Reev users joined the same server as you.
+Discord Ping - When detected, everyone in that match gets pinged in the Reev Discord.
