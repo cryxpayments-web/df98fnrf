@@ -1,16 +1,5 @@
+changelog: 09/01/2026 - 10:08 AM [GMT+01:00]
 
-changelog: 01/09/2026 - 09:59 AM [GMT+01:00] 
-
-New Languages Added
-Polish (Polski) - Full Polish language support added to the menu.
-Portuguese (Português) - Full Portuguese language support added to the menu.
-Romanian (Română) - Full Romanian language support added to the menu.
-
-Supported Languages (7 Total)
-English
-Español (Spanish)
-Русский (Russian)
-中文 (Chinese)
-Polski (Polish) ✨ NEW
-Português (Portuguese) ✨ NEW
-Română (Romanian) ✨ NEW
+Custom Model (Misc Tab)
+Fixed Not Working - Custom models now apply correctly again after spawn.
+Improved Stability - Added safety checks to prevent crashes when changing models.
