@@ -1,7 +1,9 @@
-changelog: 10/01/2026 - 08:28 AM [GMT+01:00]
+changelog: 10/01/2026 - 12:00 PM [GMT+01:00]
 
-Localization & Fonts
-Fixed Font Display - Added Latin Extended glyph ranges for Polish, Portuguese, Romanian, Spanish.
-Chinese Support - Added CJK font merge to overlay, ESP, and UI fonts.
-Russian Support - Cyrillic glyph ranges properly included in all fonts.
-Polish Translation - Updated and improved Polish language strings. (Credit goes to @Sepeix & Ukrainian immigrant that lives in poland @Plague. )
+Legitbot - Aimbot Subtab Rework
+New Category-Based UI - Simplified aimbot settings organized by weapon category (Pistol, Rifle, SMG, Sniper, Shotgun, LMG).
+Weapon Icons - Each category displays actual CS2 weapon silhouettes using GunIcons font.
+Share Across Categories - Toggle to use same settings for all weapons, or customize per-category.
+Per-Category Settings - FOV, Smoothing, Hitbox, RCS, and Assisted Recoil now configurable per weapon type.
+Cleaner Layout - Removed confusing "override" system, settings apply directly to selected category.
+Config Compatible - Existing configs will load correctly with new system.
