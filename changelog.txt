@@ -1,6 +1,8 @@
-changelog: 11/01/2026 - 3:23PM [GMT+01:00] 
+changelog: 11/01/2026 - 4:34 PM [GMT+01:00] 
 
-Overlays / Position Saving
-Positions Now Saved - Watermark, Keybinds, Spectators, and Radar overlays remember where you placed them.
-Drag and Drop - Move any overlay to your preferred spot, and it stays there next time you load.
-No More Reset - Overlay positions persist across sessions and config saves.
+Radar
+Fixed Range - Radar range now stays at what you set it to (no longer changes by itself when moving).
+Fixed Map Display - Map no longer stretches or shows broken textures when zooming out.
+
+Menu Cleanup
+Removed broken options: Jump Bug, Distant Scout, Gameplay Recoil, Molotov Fire Color.
