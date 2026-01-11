@@ -1,10 +1,8 @@
-changelog: 11/01/2026 - 6:19 PM [GMT+01:00] 
 
-Legitbot
-Fixed Silent Aim "Always" Mode - Silent aim now works correctly when set to "Always" mode. Previously it only worked with Hold or Toggle.
+changelog: 11/01/2026 - 10:23 PM [GMT+01:00] 
 
-LUA / Console
-Live Console Output - The Console subtab now shows real-time script output instead of placeholder text.
-Filter Options - Filter logs by type (Info, Warning, Error, Success) and search for specific messages.
-Auto-Scroll - Console automatically scrolls to show new messages as they come in.
-Clear Button - Quickly clear all console logs with one click.
+Visuals / Chams
+New Material: Pearlescent - A premium material with rim lighting and a subtle color-shifting iridescent effect that looks amazing on player models.
+New Material: Crystal - A glass-like transparent material with glowing edges and a gentle pulsing effect for that clean see-through look.
+Improved Stability - Added safety checks to prevent crashes when switching materials or during intense gameplay.
+Better Material Selection - Both new materials are now available in all chams dropdowns (Enemy, Backtrack, On-Shot, Local, Weapons, Arms).
