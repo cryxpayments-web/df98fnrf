@@ -1,12 +1,6 @@
-changelog: 11/01/2026 - 3:07 PM [GMT+01:00] 
+changelog: 11/01/2026 - 3:23PM [GMT+01:00] 
 
-Legitbot / Smoothing
-Improved Linear Smoothing - Linear mode now locks on target much more accurately and consistently.
-Instant Lock at Smooth 1 - At the lowest smooth setting, your crosshair now stays perfectly on the target even while moving.
-Better Target Tracking - Reduced jitter and shaking when locked onto a target.
-Stronger Lock While Shooting - Aim tightens up automatically when you're firing for better accuracy.
-
-Legitbot / Human Smoothing
-More Realistic Movement - Human mode now moves more naturally, like a real player would.
-Smoother Micro-Corrections - Small aim adjustments happen less frequently and look more human.
-Speed Capping - Prevents unnaturally fast snaps that could look suspicious.
+Overlays / Position Saving
+Positions Now Saved - Watermark, Keybinds, Spectators, and Radar overlays remember where you placed them.
+Drag and Drop - Move any overlay to your preferred spot, and it stays there next time you load.
+No More Reset - Overlay positions persist across sessions and config saves.
