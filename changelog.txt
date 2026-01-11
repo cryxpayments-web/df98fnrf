@@ -1,5 +1,7 @@
-changelog: 10/01/2026 - 04:58 PM [GMT+01:00]
 
-Legitbot UI Hotfixes
-RCS / Assisted Toggles — switched to the unified ToggleSwitch control and mark config dirty on change to prevent state snapping/glitching.
-Global Settings Header — handles missing FontAwesome globe glyph cleanly (shows icon when available, text-only otherwise).
+changelog: 11/01/2026 - 2:10 PM [GMT+01:00] 
+
+Legitbot / Hitboxes
+Per-Weapon Hitboxes - Hitbox priorities are now saved separately for each weapon category (Pistol / Rifle / SMG / Sniper / Shotgun / LMG).
+No More Global Hitbox - Changing hitboxes for one category no longer changes the others.
+Share Option Improved - If you disable “Share across all categories”, your current hitbox setup is copied to all categories so nothing breaks.
