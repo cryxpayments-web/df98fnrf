@@ -1,7 +1,6 @@
-changelog: 12/01/2026 - 11:26 AM [GMT+01:00] 
+changelog: 12/01/2026 - 12:27 PM [GMT+01:00] 
 
-Visuals / Player ESP
-New: Flashed Eye Indicator - A small eye icon now appears near a player's head when they're flashed. The icon gets brighter the more flashed they are, and fades out as the flash wears off.
-Enemy & Team Support - You can toggle the flashed eye separately for enemies and teammates, so you always know who's blind.
-Custom Color - Pick your own color for the eye icon (separate colors for enemy and team).
-Adjustable Size - Slider to make the eye icon bigger or smaller (8px to 30px).
+Config / Favorite Config
+New: Favorite Config - You can now mark one local config as your “favorite”.
+Auto-Load on Startup - Your favorite config will automatically load when you open Reev.
+Easy Toggle - Set or clear the favorite directly in the Config tab.
