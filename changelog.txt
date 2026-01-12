@@ -1,7 +1,6 @@
-changelog: 12/01/2026 - 1:08 PM [GMT+01:00] 
+changelog: 12/01/2026 - 2:34 PM [GMT+01:00] 
 
-Legitbot / Assisted Recoil
-Improved Recoil Control - Assisted Recoil now uses smarter tracking that actually stabilizes your spray.
-No More Fighting - Fixed an issue where Assisted Recoil would fight against the aimbot's smoothing, causing jittery aim.
-Works When You Need It - Recoil control now only kicks in when you're spraying without a target. When aiming at someone, the normal RCS handles it automatically.
-Smoother Sprays - Overall spray control feels more consistent and effective.
+Performance / FPS
+Smoother FPS - Reduced stutters and big FPS drops during gameplay.
+Faster Visuals (ESP) - Optimized how visuals are processed and drawn, especially when many players/entities are on screen.
+Less Background Work - Overlays now only run when enabled to avoid wasting FPS.
