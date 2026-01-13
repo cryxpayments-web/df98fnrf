@@ -1,11 +1,7 @@
-changelog: 13/01/2026 - 1:01 PM [GMT+01:00] 
+changelog: 13/01/2026 - 8:53 PM [GMT+01:00] 
 
-Grenade Helper (BETA)
-New Nade Helper Feature - Added a brand new grenade helper system to help you throw perfect smokes, flashes, molotovs and HE grenades.
-Aim Assist - When you pull out a grenade near a saved lineup spot, the crosshair will guide you to the correct throwing position and angle.
-Visual Guides - See on-screen indicators showing you exactly where to stand and where to aim.
-Multiple Throw Types - Supports normal throws, jump throws, and run throws.
-Map-Based Lineups - Lineups are saved per-map, so your spots carry over between sessions.
-Easy to Use - Just equip a grenade and the helper will show you nearby lineup spots automatically.
-
-Note: This feature is currently in BETA and still under active development. More lineup spots and improvements coming soon!
+Model Changer Fix
+Fixed Custom Models Not Applying - Custom player models now apply correctly after spawning.
+Improved Spawn Detection - Model changer now properly detects respawns and reapplies your selected model.
+Better Stability - Fixed issues where models could fail to load or cause visual glitches.
+Server Override Protection - Your custom model now stays applied and won't get reset by the server mid-round.
