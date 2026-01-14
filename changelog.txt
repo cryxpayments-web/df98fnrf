@@ -1,11 +1,4 @@
-changelog: 14/01/2026 - 9:45 AM [GMT+01:00] 
-
-Hitbox Selector UI Overhaul
-New Model Image - Replaced the hitbox selector model with a fresh FBI agent character for better visibility.
-Cleaner Coloring - Hitbox priority colors now display smoothly inside the model silhouette (no ugly rectangles).
-Uniform Colors - Fixed overlapping regions that caused darker shades in some areas.
-Both Arms Visible - Arms hitbox now correctly highlights both left and right arms.
-Improved Popup Header - The hitbox priority popup now has properly aligned rounded corners.
-
-Bug Fixes
-Vote Tracker Timeout - Vote kick tracker HUD now auto-closes after 45 seconds if vote events don't fire.
+> **changelog:** `14/01/2026 - 8:45 PM [GMT+01:00]` 
+> 
+> ## Visuals / Ambience
+> - **Ambience Colors Master Toggle** - The **World Color** checkbox is now a master switch for ambience colors (World + Lighting + Sun + Clouds + Sky). Turning it off disables all of these.
