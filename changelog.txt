@@ -1,7 +1,11 @@
-changelog: 13/01/2026 - 8:53 PM [GMT+01:00] 
+changelog: 14/01/2026 - 9:45 AM [GMT+01:00] 
 
-Model Changer Fix
-Fixed Custom Models Not Applying - Custom player models now apply correctly after spawning.
-Improved Spawn Detection - Model changer now properly detects respawns and reapplies your selected model.
-Better Stability - Fixed issues where models could fail to load or cause visual glitches.
-Server Override Protection - Your custom model now stays applied and won't get reset by the server mid-round.
+Hitbox Selector UI Overhaul
+New Model Image - Replaced the hitbox selector model with a fresh FBI agent character for better visibility.
+Cleaner Coloring - Hitbox priority colors now display smoothly inside the model silhouette (no ugly rectangles).
+Uniform Colors - Fixed overlapping regions that caused darker shades in some areas.
+Both Arms Visible - Arms hitbox now correctly highlights both left and right arms.
+Improved Popup Header - The hitbox priority popup now has properly aligned rounded corners.
+
+Bug Fixes
+Vote Tracker Timeout - Vote kick tracker HUD now auto-closes after 45 seconds if vote events don't fire.
