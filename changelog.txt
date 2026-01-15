@@ -1,4 +1,6 @@
-changelog: 15/01/2026 - 3:59 PM [GMT+01:00] 
+
+changelog: 15/01/2026 - 8:36 PM [GMT+01:00] 
 
 Bug Fix
-Bot Takeover Fixed - All features now work correctly when taking control of a bot (skins, aimbot, overlays, etc.).
+Bot Takeover Fixed - All features now work correctly when taking control of a bot
+Spectator Visuals Fixed - ESP, lines, arrows, and other visuals now display correctly when spectating other players.
