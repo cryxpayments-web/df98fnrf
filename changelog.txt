@@ -1,7 +1,6 @@
-changelog: 16/01/2026 - 6:38 PM [GMT+01:00] 
+changelog: 17/01/2026 - 02:27 AM [GMT+01:00] 
 
-Configs Hud (In-Game Config Switching)
-Toggle Keys Per Config - set a hotkey for each config to swap instantly while playing.
-HUD List For Toggled Configs - only configs with a key show up, with their toggle shown.
-Active Config Highlight - the HUD marks which config is currently enabled.
-Drag To Reposition - move the HUD while the menu is open.
+Grenade Indicator Timer Ring
+Cleaner Timer Look - grenade indicator now uses a circular timer ring instead of a floating pill.
+Less Screen Clutter - keeps all info tight around the marker for faster reads.
+Safer Timer Rendering - extra validation prevents rare crashes when timing data is invalid.
