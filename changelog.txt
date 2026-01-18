@@ -1,5 +1,5 @@
-changelog: 18/01/2026 - 07:26 PM [GMT+01:00] 
+changelog: 18/01/2026 - 07:57 PM [GMT+01:00] 
 
-Legitbot Target Lock
-Target Lock Toggle - added a switch so legitbot can stick to the first target in your FOV.
-No More Target Switching - it now stays locked until the target leaves your FOV or becomes invalid.
+Autobuy Grenade Selection
+Grenade Types List - pick exactly which grenades to auto-buy when the Grenades option is enabled.
+Old Behavior Preserved - all grenade types are selected by default so existing configs still auto-buy everything.
