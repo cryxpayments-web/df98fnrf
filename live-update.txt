@@ -1,4 +1,4 @@
-Avoid using: Triggerbot, RCS, AWALL, Strafe. (VAC-LIVE)
+VAC-LIVE: Play with risk
 
 
 
