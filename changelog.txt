@@ -1,12 +1,7 @@
-changelog: 21/01/2026 - 03:38 PM [GMT+01:00] 
 
-General FPS Improvements
-Menu Rendering Trim - the menu now fully stops drawing when it’s closed, so it doesn’t cost FPS in the background.
-Smarter Draw Queue - skipped extra draw work when there’s nothing to render on screen.
-Inventory Still Applies - skins still auto‑load in the background even when the menu is closed.
+changelog: 21/01/2026 - 06:40 PM [GMT+01:00] 
 
-Overlay FPS Trim
-Overlay Auto‑Skip - when every overlay is turned off (and the menu is closed), the overlay system now stays fully idle to save FPS.
-
-Watermark FPS Trim
-Smarter Drag Check - the watermark only updates when it’s on or when your cursor is near it for dragging.
+Lua API Expansion
+Config Controls - Lua scripts can now get and set float, int, and string config values (not just bools).
+Player & Weapon Helpers - added armor/helmet/defuse/scoped/defusing/money/eye‑pos/2D speed plus active weapon info (clip, name, spread, inaccuracy).
+Extra Math Tools - new FOV, angle/vector conversions, and random range helpers for scripting.
