@@ -1,10 +1,26 @@
-# Reev - CS2 Internal Cheese
+<div align="center">
+
+# Reev - CS2 Internal Cheat
+
+Advanced internal cheat for Counter-Strike 2 with a modern UI and a comprehensive feature set.
 
 ![CS2](https://img.shields.io/badge/Game-Counter--Strike%202-yellow)
 ![Status](https://img.shields.io/badge/Status-Undetected-green)
-![Windows](https://img.shields.io/badge/Platform-Windows-blue)
+![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 
-An advanced internal Cheese for Counter-Strike 2 with a modern UI and comprehensive feature set.
+</div>
+
+---
+
+## 📌 Table of Contents
+
+- [Features](#-features)
+- [Installation](#-installation)
+- [Default Keybinds](#-default-keybinds)
+- [Repository Layout](#-repository-layout)
+- [Disclaimer](#-disclaimer)
+- [Changelog](#-changelog)
+- [Support](#-support)
 
 ---
 
@@ -135,17 +151,17 @@ An advanced internal Cheese for Counter-Strike 2 with a modern UI and comprehens
 
 ## 📥 Installation
 
-1. Download `ReevLoader.exe`
-2. Launch CS2
-3. Run `ReevLoader.exe`
-4. Press `INSERT` to open the menu
+1. Download `ReevLoader.exe`.
+2. Launch CS2.
+3. Run `ReevLoader.exe`.
+4. Press `INSERT` to open the menu.
 
 ---
 
 ## ⌨️ Default Keybinds
 
 | Key | Action |
-|-----|--------|
+| --- | ------ |
 | `INSERT` | Toggle Menu |
 | `~` | Panic Key (Unload) |
 | `1-7` | Quick tab switch |
@@ -153,10 +169,10 @@ An advanced internal Cheese for Counter-Strike 2 with a modern UI and comprehens
 
 ---
 
-## 📁 Github File Structure
+## 📁 Repository Layout
 
 ```
-Reev-Cheese/
+Reev-Cheat/
 ├── ReevLoader.exe      # Injector
 ├── reev_release.dll    # Main DLL
 ├── configs/            # Config files
@@ -174,14 +190,15 @@ This software is for educational purposes only. Use at your own risk. The develo
 
 ## 📝 Changelog
 
-See [changelog.txt](changelog.txt) for the latest updates.
+See [CHANGELOG.md](CHANGELOG.md) for the latest updates.
 
 ---
 
 ## 💬 Support
 
-For support and updates, join our community.
-https://discord.gg/zmBjcWhu5r
+For support and updates, join our community:
+
+- https://discord.gg/zmBjcWhu5r
 
 ---
 
