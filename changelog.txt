@@ -1,6 +1,12 @@
-changelog: 21/01/2026 - 01:37 PM [GMT+01:00] 
+changelog: 21/01/2026 - 03:38 PM [GMT+01:00] 
 
-FPS Boosts (Always-On)
-Smoother Gameplay - the cheese now skips extra background checks when visuals are turned off.
-Faster Nade Helper - lineups are reused and only refreshed when you change packs or filters.
-Less Repeated Work - particle effects won’t update twice in the same frame.
+General FPS Improvements
+Menu Rendering Trim - the menu now fully stops drawing when it’s closed, so it doesn’t cost FPS in the background.
+Smarter Draw Queue - skipped extra draw work when there’s nothing to render on screen.
+Inventory Still Applies - skins still auto‑load in the background even when the menu is closed.
+
+Overlay FPS Trim
+Overlay Auto‑Skip - when every overlay is turned off (and the menu is closed), the overlay system now stays fully idle to save FPS.
+
+Watermark FPS Trim
+Smarter Drag Check - the watermark only updates when it’s on or when your cursor is near it for dragging.
